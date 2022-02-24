@@ -1,0 +1,28 @@
+table{
+    border-collapse: collapse;
+    border-color: greenyellow;
+}
+td:nth-child(2n+1){
+    width: 500px;
+    height: 100px;
+    text-align: center;
+    font-weight: bold;
+}
+td:nth-child(2n){
+    width: 350px;
+    text-align: center;
+    font-weight: bold;
+}
+tr{
+    height: 30px;
+}
+tr:first-child{
+    background-color: rgb(86, 164, 74);
+    color: white;
+    border-color: white;
+}
+tr:nth-child(2){
+    background-color: rgb(117, 167, 124);
+    font-weight: bold;
+}
+

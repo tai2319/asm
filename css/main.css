@@ -1,0 +1,238 @@
+*{
+    width: 98%;
+    height: auto;
+    margin: auto;
+}
+
+.container{
+    width: 98%;
+    height: 120px;
+    background-color: rgb(52, 51, 51);
+    text-align: center;
+    position: relative;
+
+}
+.text{
+    font-weight: bold;
+    font-size:20pt;
+    font-family: cursive;
+}
+ .label{
+    position: absolute;
+    left: 700px;
+    bottom: 80px;
+}
+
+.text-1 a{
+    text-decoration: none;
+    color: white;
+    margin: 5px;
+    font-size: 20pt;
+}
+.text-1 a:hover{
+    color: rgb(99, 58, 137);
+}
+.content{
+    width: 98%;
+    height: auto;
+    position: relative;
+    float: left;
+}
+.form-1{
+    width: 65%;
+    height: auto;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.form-2{
+    width: 32%;
+    height: auto;
+    float: right;
+    margin-top: 50px;
+    position: relative;
+}
+.boxleft{
+    width: 30%;
+    float: left;
+    height: 500px;
+
+}
+.boxleft img{
+    width: 100%;
+    float: left;
+    margin-right: 10px;
+    padding: 10px;
+}
+.boxleft>.col a{
+    display: inline-block;
+    position: absolute;
+    text-decoration: none;
+    font-size: 16pt;
+    left: 200px;
+}
+.mr{
+    margin-right: 20px;
+}
+.mb{
+    margin-bottom: 20px;
+}
+.ml{
+    margin-left: 20px;
+}
+
+.col-2 img{
+    width: 150px;
+    height: 100px;
+    float: left;   
+    margin-top: 20px;
+}
+.col-2 a{
+    padding-top: 20px ;
+    padding-left: 20px;
+    text-align: right;
+    text-decoration: none;
+    font-size: 12pt; 
+}
+.form-2 a:hover{
+    color: orange;
+}
+.pele img{
+    width:1000px; 
+    height: 500px;
+}
+.pele a{
+    text-decoration: none;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: black    ;
+}
+.pele span{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pele a:hover{
+    color: orange;
+}
+.maradona img{
+    width:1000px; 
+    height: 500px;
+}
+.maradona a{
+    text-decoration: none;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: black;
+}
+.maradona span{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.maradona a:hover{
+    color: orange;
+}
+.Lima img{
+    width:1000px; 
+    height: 500px;
+}
+.Lima a{
+    text-decoration: none;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: black;
+}
+.Lima span{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Lima a:hover{
+    color: orange;
+}
+.zidan img{
+    width:1000px; 
+    height: 500px;
+}
+.zidan a{
+    text-decoration: none;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: black;
+}
+.zidan span{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.zidan a:hover{
+    color: orange;
+}
+.messi img{
+    width:1000px; 
+    height: 500px;
+}
+.messi a{
+    text-decoration: none;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: black;
+}
+.messi span{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.messi a:hover{
+    color: orange;
+}
+.cris img{
+    width:1000px; 
+    height: 500px;
+}
+.cris a{
+    text-decoration: none;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: black;
+}
+.cris span{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.cris a:hover{
+    color: orange;
+}
+.franz a{
+    text-decoration: none;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: black;
+}
+.franz span{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.franz a:hover{
+    color: orange;
+}
+.raul a{
+    text-decoration: none;
+    font-size: 40px;
+    font-family: sans-serif;
+    color: black;
+}
+.raul span{
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.raul a:hover{
+    color: orange;
+}
+.footer{
+    float: left;
+    width: 70%;
+    height: 200px;
+    margin-left: 50px;
+}
+
+
+
+
+
+
