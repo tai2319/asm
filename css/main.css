@@ -33,7 +33,7 @@
     color: rgb(99, 58, 137);
 }
 .content{
-    width: 98%;
+    width: 100%;
     height: auto;
     position: relative;
     float: left;
@@ -60,15 +60,15 @@
 .boxleft img{
     width: 100%;
     float: left;
-    margin-right: 10px;
-    padding: 10px;
+    margin-right: 5px;
+    padding: 5px;
 }
 .boxleft>.col a{
     display: inline-block;
     position: absolute;
     text-decoration: none;
-    font-size: 16pt;
-    left: 200px;
+    font-size: 12pt;
+    left: 180px;
 }
 .mr{
     margin-right: 20px;
@@ -97,7 +97,7 @@
     color: orange;
 }
 .pele img{
-    width:1000px; 
+    width: 910px;
     height: 500px;
 }
 .pele a{
@@ -131,7 +131,7 @@
     color: orange;
 }
 .Lima img{
-    width:1000px; 
+    width:910px; 
     height: 500px;
 }
 .Lima a{
@@ -148,7 +148,7 @@
     color: orange;
 }
 .zidan img{
-    width:1000px; 
+    width:910px; 
     height: 500px;
 }
 .zidan a{
@@ -165,7 +165,7 @@
     color: orange;
 }
 .messi img{
-    width:1000px; 
+    width:910px; 
     height: 500px;
 }
 .messi a{
@@ -182,7 +182,7 @@
     color: orange;
 }
 .cris img{
-    width:1000px; 
+    width:910px; 
     height: 500px;
 }
 .cris a{
